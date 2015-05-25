@@ -12,13 +12,13 @@ project (source code)](https://github.com/ramda/ramda/).
 
 Installation
 -------------
-* Clone into your /packages/ directory.
+* From your meteor project clone into your /packages/ directory.
 ```bash
   $ git clone https://github.com/tabruhn/meteor-ramda
 ```
 * Import the package into your project
 ```bash
-  $ meteor add ramda
+  $ meteor add tyson:ramda
 ```
 
 Usage
